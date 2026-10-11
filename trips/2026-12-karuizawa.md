@@ -86,6 +86,7 @@ Buy **online before arrival** or **at Narita on the day**.
 
 - Official: **JR-EAST Train Reservation**
 - Third-party: [Klook](https://www.klook.com/en-HK/activity/173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo/) · [KKday](https://www.kkday.com/en-hk/product/529712)
+- **Klook pricing:** listed price is higher than the official ~¥5,200; it appears cheaper if booked sooner rather than later (dynamic/third-party pricing). Prefer official JR price when possible; treat Klook as convenience with a premium.
 - After booking: keep the **QR / reservation number**. At Narita, bring the **QR + physical passport** to a JR passport-reader ticket machine or a JR service center to **print physical tickets**.
 
 **Same-day at Narita (B1, Terminal 1 or Terminals 2/3)**
