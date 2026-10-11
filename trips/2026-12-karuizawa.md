@@ -80,6 +80,15 @@ Two reserved products — **not** one through ticket — both bookable on **eki-
 - **Prefer Shinkansen e-ticket / QR ticketless:** register IC or show QR at gates — no paper pickup needed if ticketless succeeds
 - **Alternative (paper):** collect at JR ticket machines / Midori-no-madoguchi at Narita or Tokyo with reservation number + passport / payment as required
 
+### Reserved seats and missing a train
+
+- A **reserved seat** is for a **specific train and departure time**.
+- **Regular-price JR reserved** (N’EX / Hokuriku Shinkansen): if you miss that train, on the **same day / same route** you can usually ride a **later train in unreserved cars**; the reserved seat itself is **forfeited** (no seat refund).
+- **Discount tickets** (e.g. Tokudane) may **not** allow that — you may need a **new express ticket** after a miss.
+- **All-reserved** services are harder (little or no unreserved fallback).
+- You can often **change the reservation once before departure** if seats are free; **after departure**, change is usually **not** allowed.
+- **Practical:** keep buffer on the **Dec 25** airport → N’EX → Shinkansen chain so a delay does not cascade into a miss.
+
 ### JR Pass note (open decision)
 
 - Nationwide **JR Pass** is usually **not** money-saving for a short Tokyo–Karuizawa return only
