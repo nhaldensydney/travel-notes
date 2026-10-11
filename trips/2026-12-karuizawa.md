@@ -94,6 +94,14 @@ Two reserved products — **not** one through ticket — both bookable on **eki-
 - Nationwide **JR Pass** is usually **not** money-saving for a short Tokyo–Karuizawa return only
 - **JR Tokyo Wide Pass** can cover Hokuriku Shinkansen as far as Karuizawa for ~3 days — evaluate vs point-to-point when booking
 
+### Klook vs JR direct
+
+- **Klook** is an OTA for the same JR trains (Tokyo→Karuizawa search works); pick date/time/seat type.
+- **Pros:** English UI; foreign cards often easier.
+- **Cons:** may be QR→machine pickup vs ticketless; exact seat # often not selectable; change/cancel follows Klook rules (can be stricter near departure); price may be slightly higher.
+- Same ~1-month reserved sale window; Dec 25 inventory around Nov 25 — don’t assume early search = bookable yet.
+- **Practical:** Klook for convenience; JR East (eki-net / JR-EAST Train Reservation) for ticketless + official changes. N’EX can be Klook or bought at Narita on arrival.
+
 ## Reminders status
 
 - Travel-day and booking-window reminders set for the sale dates above
