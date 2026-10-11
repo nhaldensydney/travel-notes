@@ -40,6 +40,28 @@
 - Assumes **no meal stop** along the way
 - Dec 25 is Friday / year-end — don’t book earlier than noon unless immigration is reliably fast
 
+## Transfer: Tokyo vs Ueno
+
+Two sensible airport → Shinkansen paths; pick based on the airport train you take.
+
+| Path | Airport train | Transfer station | Notes |
+| --- | --- | --- | --- |
+| A | Narita Express (N’EX) | **Tokyo** | N’EX goes to Tokyo, not Ueno — Tokyo is the natural transfer |
+| B | Keisei Skyliner | **Ueno** | Skyliner ends at Keisei Ueno → short walk to JR Ueno Shinkansen |
+
+- Both board the **same Hokuriku Shinkansen** (Asama / Hakutaka). Ueno is the next stop after Tokyo, so the Karuizawa ride is only a few minutes shorter from Ueno.
+- **Door-to-door times are similar.** Tokyo Station transfer can mean a longer walk between N’EX and Shinkansen platforms; Ueno is usually more compact, but the airport leg is Keisei (not JR).
+- **Car pickup ~13:00–13:30** stays the default unless a specific morning connection clearly lands earlier.
+
+## Japan rail crash course (Tokyo area)
+
+- **JR East vs private railways** (Keisei, etc.): separate companies and tickets. Ticket gates usually do **not** freely interchange — exiting one system and entering another means a new fare.
+- **Narita Express (N’EX):** JR limited express, airport ↔ Tokyo / Shinjuku / etc. All reserved. ~53–60 min to Tokyo.
+- **Keisei Skyliner:** Keisei limited express, airport ↔ Keisei Ueno. Often ~40–45 min; then walk to **JR Ueno** for the Shinkansen.
+- **Hokuriku Shinkansen:** JR bullet train from Tokyo / Ueno / Omiya toward Nagano / Kanazawa. **Asama** and **Hakutaka** stop at Karuizawa; **Kagayaki** does not.
+- **“JR ticket world”** = staying on JR products (N’EX + Shinkansen) with one family of tickets/passes. Mixing Keisei means a **separate ticket** for the airport leg.
+- **IC cards** (Suica / Pasmo): fine for local trains. Shinkansen and most limited expresses need **separate reserved / express tickets**.
+
 ## Calendar / reminders status
 
 - Travel-day and booking-window calendar events already created on Google Calendar
@@ -51,3 +73,4 @@
 - Exact outbound / return train times (book mid/late Nov)
 - Final car pickup time / rental company
 - Whether to insert a meal stop (would push pickup later)
+- Tokyo vs Ueno transfer (depends on N’EX vs Skyliner choice)
