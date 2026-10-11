@@ -85,11 +85,10 @@ Two reserved products — **not** one through ticket — both bookable on **eki-
 - Nationwide **JR Pass** is usually **not** money-saving for a short Tokyo–Karuizawa return only
 - **JR Tokyo Wide Pass** can cover Hokuriku Shinkansen as far as Karuizawa for ~3 days — evaluate vs point-to-point when booking
 
-## Calendar / reminders status
+## Reminders status
 
-- Travel-day and booking-window calendar events already created on Google Calendar
-- Chat routines for Nov 18 / 25 and Nov 22 / 29 at **8:15 HKT**
-- **Do not** add a car-pickup calendar hold yet — wait until finalized
+- Travel-day and booking-window reminders set for the sale dates above
+- **Do not** add a car-pickup hold yet — wait until finalized
 
 ## Open decisions
 

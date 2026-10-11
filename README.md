@@ -1,6 +1,6 @@
 # Travel Notes
 
-Private trip planning notes for TC.
+Trip planning notes (itineraries, rail transfers, booking windows).
 
 ## Trips
 
