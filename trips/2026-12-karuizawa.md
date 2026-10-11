@@ -62,6 +62,29 @@ Two sensible airport → Shinkansen paths; pick based on the airport train you t
 - **“JR ticket world”** = staying on JR products (N’EX + Shinkansen) with one family of tickets/passes. Mixing Keisei means a **separate ticket** for the airport leg.
 - **IC cards** (Suica / Pasmo): fine for local trains. Shinkansen and most limited expresses need **separate reserved / express tickets**.
 
+## What to buy online (N’EX → Tokyo → Karuizawa)
+
+Two reserved products — **not** one through ticket — both bookable on **eki-net** / **JR-EAST Train Reservation** in one session:
+
+1. **N’EX** Narita → Tokyo
+2. **Hokuriku Shinkansen** Tokyo → Karuizawa (**Asama** / **Hakutaka**)
+
+### Sale windows
+
+- Reserved seats go on sale **1 month before** travel at **10:00 JST**
+- **Dec 25 outbound:** sale **Nov 25** 10:00 JST; eki-net pre-request ~**Nov 18**
+- **Dec 29 return:** book Karuizawa → Tokyo **separately** (sale **Nov 29**)
+
+### Ticket pickup / use
+
+- **Prefer Shinkansen e-ticket / QR ticketless:** register IC or show QR at gates — no paper pickup needed if ticketless succeeds
+- **Alternative (paper):** collect at JR ticket machines / Midori-no-madoguchi at Narita or Tokyo with reservation number + passport / payment as required
+
+### JR Pass note (open decision)
+
+- Nationwide **JR Pass** is usually **not** money-saving for a short Tokyo–Karuizawa return only
+- **JR Tokyo Wide Pass** can cover Hokuriku Shinkansen as far as Karuizawa for ~3 days — evaluate vs point-to-point when booking
+
 ## Calendar / reminders status
 
 - Travel-day and booking-window calendar events already created on Google Calendar
@@ -74,3 +97,4 @@ Two sensible airport → Shinkansen paths; pick based on the airport train you t
 - Final car pickup time / rental company
 - Whether to insert a meal stop (would push pickup later)
 - Tokyo vs Ueno transfer (depends on N’EX vs Skyliner choice)
+- JR Tokyo Wide Pass vs point-to-point (N’EX + Shinkansen) — evaluate at booking
