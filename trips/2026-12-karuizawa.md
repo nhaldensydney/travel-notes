@@ -5,7 +5,9 @@
 - **Outbound:** Dec 25, 2026 — Tokyo → Karuizawa on Hokuriku Shinkansen
   - Prefer **Asama**; **Hakutaka** only if it stops at Karuizawa; never **Kagayaki**
 - **Return:** Dec 29, 2026 — Karuizawa → Tokyo
-- **Flight:** Dec 25 arrive Narita (NRT) **07:05**
+- **Flights:**
+  - Dec 25 arrive Narita (NRT) **07:05**
+  - Dec 30 fly out from Narita (NRT)
 - **Plan:** rent a car at Karuizawa Station after arriving by Shinkansen
 
 ## Rail facts
@@ -69,6 +71,13 @@ Two reserved products — **not** one through ticket — both bookable on **eki-
 1. **N’EX** Narita → Tokyo
 2. **Hokuriku Shinkansen** Tokyo → Karuizawa (**Asama** / **Hakutaka**)
 
+### N’EX TOKYO Round Trip Ticket (~¥5,200)
+
+- **Appropriate** for this trip: Dec 25 NRT → Tokyo + Dec 30 Tokyo → NRT (both within 14 days)
+- Foreign passport usually required
+- Pick up at Narita JR (ticket machines / Midori-no-madoguchi)
+- **Does not** cover Karuizawa Shinkansen — still buy **Asama** / **Hakutaka** separately each way
+
 ### Sale windows
 
 - Reserved seats go on sale **1 month before** travel at **10:00 JST**
@@ -112,5 +121,5 @@ Two reserved products — **not** one through ticket — both bookable on **eki-
 - Exact outbound / return train times (book mid/late Nov)
 - Final car pickup time / rental company
 - Whether to insert a meal stop (would push pickup later)
-- Tokyo vs Ueno transfer (depends on N’EX vs Skyliner choice)
+- Tokyo vs Ueno transfer (depends on N’EX vs Skyliner choice) — **prefer N’EX TOKYO Round Trip Ticket for airport legs**
 - JR Tokyo Wide Pass vs point-to-point (N’EX + Shinkansen) — evaluate at booking
