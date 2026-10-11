@@ -74,9 +74,24 @@ Two reserved products — **not** one through ticket — both bookable on **eki-
 ### N’EX TOKYO Round Trip Ticket (~¥5,200)
 
 - **Appropriate** for this trip: Dec 25 NRT → Tokyo + Dec 30 Tokyo → NRT (both within 14 days)
-- Foreign passport usually required
-- Pick up at Narita JR (ticket machines / Midori-no-madoguchi)
+- **Foreign-passport exclusive** discount; **physical passport required** for purchase and pickup
 - **Does not** cover Karuizawa Shinkansen — still buy **Asama** / **Hakutaka** separately each way
+- Official overview: [N’EX TOKYO Round Trip Ticket (JR East)](https://www.jreast.co.jp/en/multi/pass/nex.html)
+
+#### Buy / pickup
+
+Buy **online before arrival** or **at Narita on the day**.
+
+**Online**
+
+- Official: **JR-EAST Train Reservation**
+- Third-party: [Klook](https://www.klook.com/en-HK/activity/173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo/) · [KKday](https://www.kkday.com/en-hk/product/529712)
+- After booking: keep the **QR / reservation number**. At Narita, bring the **QR + physical passport** to a JR passport-reader ticket machine or a JR service center to **print physical tickets**.
+
+**Same-day at Narita (B1, Terminal 1 or Terminals 2/3)**
+
+- **JR EAST Travel Service Center** or **Midori-no-Madoguchi** — English OK; passport scan
+- **Reserved-seat vending machines** with passport readers — English menu available
 
 ### Sale windows
 
